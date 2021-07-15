@@ -1,4 +1,4 @@
-## DeepSafe -  A chrome extension which shows all the DeepFake Images on a website
+## What's up
 
 You can use the [editor on GitHub](https://github.com/siddharthksah/DeepSafe/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
