@@ -1,4 +1,4 @@
-## What's up
+## Installation Guide
 
 Follow the below steps to add the extension to your Google Chrome browser:
 
