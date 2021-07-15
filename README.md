@@ -37,7 +37,7 @@ Syntax highlighted code block
 [Link](url) and ![Image]('icon.png')
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details on what DeepFakes are see [This Amazing Article by TheGuardian](https://www.theguardian.com/technology/2020/jan/13/what-are-deepfakes-and-how-can-you-spot-them/).
 
 ### Jekyll Themes
 
