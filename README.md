@@ -1,5 +1,19 @@
 ## What's up
 
+Follow the below steps to add the extension to your Google Chrome browser:
+
+Open the Extension Manager by following:
+
+1. Kebab menu(⋮) -> More Tools -> Extensions
+
+2. If the developer mode is not turned on, turn it on by clicking the toggle in the top right corner
+
+3. Download the extension file from here.
+
+4. Extract the downloaded .zip file and note the extracted path
+
+5. Now click on Load unpacked button on the top left and select the extracted folder
+
 You can use the [editor on GitHub](https://github.com/siddharthksah/DeepSafe/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
